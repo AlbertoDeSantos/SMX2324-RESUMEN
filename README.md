@@ -36,5 +36,6 @@ jkrdh lserkjhglksjehg ljh gljrhglkjdfhlgjh lkgjfhslkdjfhg lkdsjfhg lkdfjh glkdfs
 </html>
 ```
 [link](https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
+![Imagen de planeta](https://github.com/AlbertoDeSantos/repositorio2/blob/main/planeta.jpg "Titulo opcional")
 
 
