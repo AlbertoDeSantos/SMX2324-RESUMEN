@@ -26,7 +26,7 @@ Esto es un párrafosddcnñkfj hfkjb dfkjv bdfjbv ldfjbv sdfljkvb ldfjb ldfjb ldf
 
 jkrdh lserkjhglksjehg ljh gljrhglkjdfhlgjh lkgjfhslkdjfhg lkdsjfhg lkdfjh glkdfsjhg lkjdsf hgljkdsfhf glkjdsfhg lkjdsfh gljkdsfh glkjdfh gljkdfh glkdjfh glkjds hfglkjdfsh.
 
-``
+``` 
 <html>
     <head>
     <head>
@@ -34,7 +34,7 @@ jkrdh lserkjhglksjehg ljh gljrhglkjdfhlgjh lkgjfhslkdjfhg lkdsjfhg lkdfjh glkdfs
         <p> Esto es un código en HTML </p>
     <body>
 </html>
-``
+```
 [link](https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
 
 
