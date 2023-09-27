@@ -35,7 +35,12 @@ jkrdh lserkjhglksjehg ljh gljrhglkjdfhlgjh lkgjfhslkdjfhg lkdsjfhg lkdfjh glkdfs
     <body>
 </html>
 ```
-[link](https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
+[Enlace a web del cole ](https://www.fje.edu/ca/jesuites-bellvitge "Texto alternativo de enlace a la web del cole")
 ![Imagen de planeta](https://github.com/AlbertoDeSantos/repositorio2/blob/main/planeta.jpg "Titulo opcional")
+
+|Titulo |Alineación | Precios|
+|----------|:----------:|---------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
 
 
